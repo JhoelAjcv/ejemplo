@@ -11,4 +11,6 @@ git config --global user.email "tupaijhoel@gmail.com"
 
 git config --global user.name "Jhoel"
 
-git checkout  te permite desplazarse por el arbol
+git checkout -- .  te permite desplazarse por el arbol
+
+git branch 
